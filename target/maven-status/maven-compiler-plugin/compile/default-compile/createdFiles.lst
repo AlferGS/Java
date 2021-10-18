@@ -1,0 +1,10 @@
+com\bsuir\birukov\SpringRunApplication.class
+com\bsuir\birukov\controller\ReallyUselessController.class
+com\bsuir\birukov\entity\Number.class
+com\bsuir\birukov\controller\ErrorsAdvice.class
+util\FunctionUtil.class
+com\bsuir\birukov\entity\Cache.class
+com\bsuir\birukov\repository\NumberRepository.class
+com\bsuir\birukov\service\RequestCounter.class
+com\bsuir\birukov\dao\NumberDao.class
+com\bsuir\birukov\service\StatComputationClass.class
